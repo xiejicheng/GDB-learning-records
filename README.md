@@ -24,3 +24,6 @@
 ​	第四部分：介绍升级版调试工具（CGDB、VisualGDB）。
 
 ​	第五部分：GDB实例教程，基于Redis的调试。
+
+#### 特别说明
+  本项目为记录 GDB 调试的学习笔记，学习途径为 范蠡 老师的[《Linux GDB 调试指南》](https://gitbook.cn/gitchat/column/5c0e149eedba1b683458fd5f)。
